@@ -44,3 +44,5 @@ src="https://img.shields.io/github/followers/AkhonaDlamini?logo=github&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+I have experience with Java, C#, MySQL, and Python, and I am continuously improving my proficiency in these languages.
