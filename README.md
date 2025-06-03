@@ -1,50 +1,71 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhona Dlamini
-======================================================================================================================================
-I'm a passionate and driven IT student currently pursuing a **Diploma in Information Technology: Software Development**. I enjoy building real-world solutions through code and continuously strive to learn, grow, and make a meaningful impact in the tech world.
+# 🔍 Predicting Employee Withdrawals from Retirement Savings
 
-I have experience working on **mobile and web applications**, database-driven systems, and user-focused interfaces. I'm currently seeking **in-service training opportunities** to gain practical exposure in a dynamic, professional environment.
-I've been learning to code for the past 2 years and I have found interest and passion for it.
+## 📌 Project Overview
 
-* 🌍  I'm based in South Africa
-* ✉️  You can contact me at [akhonadlamini92@gmail.com](mailto:akhonadlamini92@gmail.com)
-* 🧠  I'm learning Open-source framework (React Native), Firebase
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Wonder woman, always filled with wonder!
+This project explores the behavioral patterns that lead employees to withdraw from their accessible retirement savings. Using a custom dataset I created—since no existing one fully captured key factors like retirement behavior and income levels—I trained a machine learning model to predict withdrawal behavior using real-world financial indicators.
 
-<a href="https://www.github.com/AkhonaDlamini" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/AkhonaDlamini?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🧠 Reason for Creating the Dataset
 
-### Skills
+Most publicly available datasets lacked important features such as:
 
+* Individual savings behavior
+* Income level
+* Retirement savings totals
+* Economic variables like interest and inflation rates
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-  
-</p>
+This dataset was built to enable **comprehensive analysis** of factors influencing withdrawal behavior. The goal was to bridge a data gap in financial planning and retirement behavior studies.
 
+## 📊 Dataset Details
 
-### Socials
+**Number of records**: 1,000
+**Columns**:
 
-<p align="left"> <a href="https://www.codepen.io/KaMalandelaDlamini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/Akhona Precious" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AkhonaDlamini" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/@akhonadlamini91" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@akhonadlamini5958" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@akhonadlamini91" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+* Age
+* Gender
+* Marital Status
+* Income Level
+* Savings Rate
+* Retirement Savings
+* Withdrawal Behavior (Target)
+* Inflation Rate
+* Interest Rate
 
-### Badges
+Each record represents an employee and their financial profile, with the target variable being whether they withdrew from their retirement pot.
 
-<b>My GitHub Stats</b>
+## 🧹 Data Preparation
 
-<a href="http://www.github.com/AkhonaDlamini"><img src="https://github-readme-stats.vercel.app/api?username=AkhonaDlamini&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AkhonaDlamini's GitHub stats" /></a>
+* Checked for null values and duplicates (none found ✅)
+* Encoded categorical variables using one-hot encoding
+* Performed exploratory analysis (e.g., age vs. withdrawal behavior)
 
-<a href="http://www.github.com/AkhonaDlamini"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhonaDlamini&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 📈 Data Visualization
 
-<a href="http://www.github.com/AkhonaDlamini"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AkhonaDlamini&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+A boxplot revealed that older employees are more likely to make withdrawals, possibly due to retirement, health-related costs, or family obligations. This reinforces real-world trends in personal finance and supports the dataset’s realism.
 
-<a href="https://github.com/AkhonaDlamini" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhonaDlamini&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## 🧪 Modeling Approach
 
-<b>Top Repositories</b>
+* **Model**: Random Forest Classifier
+* **Features**: All columns except the target
+* **Split**: 80% training / 20% testing
+* **Performance**:
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+  * Accuracy: \~70%
+  * Precision (Class 1): 40%
+  * Recall (Class 1): 11%
+  * F1-score (Class 1): 17%
 
-I have experience with Java, C#, MySQL, and Python, and I am continuously improving my proficiency in these languages.
+While accuracy is decent, the model struggles to detect withdrawals (`class 1`) due to class imbalance.
+
+## 📉 Limitations
+
+* **Imbalanced Classes**: Majority of data points are `0` (no withdrawal), which impacts recall and precision for the minority class.
+* **Synthetic Dataset**: Although thoughtfully crafted, the data isn't from real employee records, so conclusions should be treated with caution in a business context.
+
+## 🔮 Forecasting Next Steps
+
+### For Future Improvements:
+
+* Apply SMOTE or other oversampling techniques to address class imbalance.
+* Experiment with other models (e.g., Gradient Boosting, XGBoost).
+* Introduce more behavioral data (e.g., financial literacy, risk tolerance).
+* Track changes over time to turn this into a **time-series** forecasting problem for long-term savings behavior.
