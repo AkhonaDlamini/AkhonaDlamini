@@ -1,6 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akhona Dlamini
 ======================================================================================================================================
+I'm a passionate and driven IT student currently pursuing a **Diploma in Information Technology: Software Development**. I enjoy building real-world solutions through code and continuously strive to learn, grow, and make a meaningful impact in the tech world.
 
+I have experience working on **mobile and web applications**, database-driven systems, and user-focused interfaces. I'm currently seeking **in-service training opportunities** to gain practical exposure in a dynamic, professional environment.
 I've been learning to code for the past 2 years and I have found interest and passion for it.
 
 * 🌍  I'm based in South Africa
